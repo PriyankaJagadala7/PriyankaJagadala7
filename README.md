@@ -76,7 +76,7 @@ Moving beyond naive prototypes requires a robust understanding of both retrieval
 ## 📫 Contact
 **Email:** priyankajagadala701@gmail.com  
 **LinkedIn:** [linkedin.com/in/priyankajagadala](https://www.linkedin.com/in/priyankajagadala)  
-**Location:** California, USA 
+**Location:** California, USA
 **Pronouns:** She/Her
 
 ---

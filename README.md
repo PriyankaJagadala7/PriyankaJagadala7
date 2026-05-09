@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyanka Jagadala — AI Engineer (Data Specialist)
+# 👋 Hi, I'm Priyanka Jagadala — AI Engineer
 
 I build end-to-end AI systems, from research and experimentation to production deployment. 
 My work spans **Agentic AI, Deep Learning, NLP, and GenAI**, with a strong focus on **PyTorch**, scalable pipelines, and clean system design. I hold an MS in Big Data Science from Queen Mary University of London and actively work on building highly reliable, production-grade AI architectures.
